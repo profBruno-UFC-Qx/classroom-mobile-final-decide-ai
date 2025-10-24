@@ -4,17 +4,14 @@
 
 ## Equipe
 * **Nome do Aluno(a) 1:** Emilly Paiva Belo - 563639
-* **Nome do Aluno(a) 2:** Victor Veras Martins
+* **Nome do Aluno(a) 2:** Victor Veras Martins - 571603
 
 
 ## Título do Projeto
 Decide Aí
-
 ## Descrição do Projeto
 O "Decide Aí" é um aplicativo móvel desenhado para eliminar a fadiga de decisão em atividades sociais e cotidianas. O problema central que ele resolve é a indecisão crônica que afeta grupos de amigos, casais e até indivíduos ao tentar escolher atividades simples, como qual filme assistir ou onde jantar. Baseado em esquemas de votação ou aleatoriedade, ele vai te ajudar com sua indecisão.
 ## Funcionalidades Principais
-[Liste as principais funcionalidades do projeto. Use caixas de seleção para que a equipe possa marcar as concluídas nas próximas etapas.]
-
 - Modo de Decisão em Grupo (Votação): Grupos podem votar anonimamente para decidir uma categoria (ex: Filme, Restaurante, Delivery). 
 - Modo de Decisão Solo (Roleta Aleatória): O usuário escolhe o que quer decidir (ex: "Filme") e aplica os filtros desejados (ex: "Comédia", "Netflix"). O app busca todas as opções que se encaixam nos filtros e sorteia aleatoriamente uma única sugestão para o usuário.
 - Listas Personalizadas (Decida Qualquer Coisa): Permite que o usuário (no modo solo ou grupo) crie manualmente uma lista de opções (ex: "Qual jogo jogar?", "Qual praia vamos?") e use o mecanismo de sorteio (solo) ou votação (grupo) do app para decidir.
