@@ -6,14 +6,5 @@
 * **Nome do Aluno(a) 1:** Emilly Paiva Belo - 563639
 * **Nome do Aluno(a) 2:** Victor Veras Martins - 571603
 
-
-## Título do Projeto
 - Repositorio do projeto: https://github.com/emytonton/DecideAi-Frontend
-```bash
-# Clone o repositório
-git clone [https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories](https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories)
 
-# Navegue para o diretório
-cd [nome-do-repositorio]
-
-# Siga as instruções específicas para a sua tecnologia...
